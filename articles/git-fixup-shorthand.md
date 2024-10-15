@@ -15,7 +15,7 @@ published_at: 2024-10-15 07:00
 git config --global --edit
 ```
 
-.gitconfig に rebase オプション設定と alias を追加します。
+.gitconfig に alias を追加します。
 
 ```
 [alias]
